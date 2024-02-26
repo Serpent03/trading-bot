@@ -11,7 +11,7 @@ binance-JS is a javascript bot that tries to perform algorithmic bitcoin trading
 Clone the repository onto your local machine using git:
 
 ```bash
-git clone https://github.com/Serpent03/tweeter.git
+git clone https://github.com/Serpent03/trading-bot.git
 ```
 
 Before starting, install all the relevant modules using yarn:
