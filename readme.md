@@ -36,3 +36,9 @@ Currently a few strategies have been implemented/are in TODO:
 
 ## PS
 This was developed quite a few years ago. As such I am not able to verify if it currently works in the present market, as well as if the API itself is working or not.
+```mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
+```
